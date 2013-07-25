@@ -21,7 +21,6 @@ Execute unit tests
 python -m unittest -v ctci_01_01
 ```
 
-## Chapter 1
 ### Challenge 1.2
 Write code to reverse a C-Style String (C-String means that “abcd” is represented as five characters, including the null character )
 
