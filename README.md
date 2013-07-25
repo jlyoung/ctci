@@ -9,17 +9,33 @@ I'll add my solutions to this repository as I work through the chapters and ques
 Implement an algorithm to determine if a string has all unique characters.
 
 ### Solution 1.1
-To execute from the command line
+Execute example
 
 ```bash
 python ctci_01_01.py
 ```
 
-To execute unit tests
+Execute unit tests
 
 ```bash
 python -m unittest -v ctci_01_01
 ```
 
-## 
+## Chapter 1
+### Challenge 1.2
+Write code to reverse a C-Style String (C-String means that “abcd” is represented as five characters, including the null character )
 
+### Solution 1.2
+Execute example
+
+```bash
+python ctci_01_02.py
+```
+
+Execute unit tests
+
+```bash
+python -m unittest -v ctci_01_02
+```
+
+## 
