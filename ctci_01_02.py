@@ -10,7 +10,7 @@ including the null character.
 import sys
 import unittest
 
-class TestCitcChapter2Question2(unittest.TestCase):
+class TestCitcChapter1Question2(unittest.TestCase):
 	def setUp(self):
 		self.c_string = "abcd\0"
 		self.reversed_c_string = "\0dcba"
