@@ -38,9 +38,12 @@ python -m unittest -v ctci_01_02
 ```
 
 ### Challenge 1.3
-Design an algorithm and write code to remove the duplicate characters in a string without using any additional buffer. 
+Design an algorithm and write code to remove the duplicate characters in a string without using any additional buffer.
+
 NOTE: One or two additional variables are fine. An extra copy of the array is not.
+
 FOLLOW UP
+
 Write the test cases for this method.
 
 ### Solution 1.3
@@ -54,6 +57,22 @@ Execute unit tests
 
 ```bash
 python -m unittest -v ctci_01_03
+```
+
+### Challenge 1.4
+Write a method to decide if two strings are anagrams or not.
+
+### Solution 1.4
+Execute example
+
+```bash
+python ctci_01_04.py
+```
+
+Execute unit tests
+
+```bash
+python -m unittest -v ctci_01_04
 ```
 
 ## 
